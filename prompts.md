@@ -1,6 +1,25 @@
-For the Boy on the Couch (Scene 1): A little boy sits on a cozy couch in the living room, waiting, looking sad, Pixar style, 3D animation, bright colors, vertical format 9:16 For Mom with a Cloud (Scene 2 and 4): A tired mother enters the house, cartoon style, 3D animation. Above her head is a thought bubble filled with business charts and work stress. Pixar style – 9:16 For the Dancing Family (Scene 6 and 7): A happy family, mother, father, and little son, laugh and dance together in a modern…
-### Сцена 3: Сын играет в видеоигры
-A little boy sitting cross-legged on a cozy living room floor, playing a video game, holding a game controller, intensely focused, bright TV screen light reflecting on his face, Pixar style, 3D animation, vivid colors, vertical format --ar 9:16
+# Промпты для мультфильма "Танцевальная терапия" (Формат Shorts 9:16)
 
-### Сцена 5: Мама обнимает сына
-A heartwarming scene of a loving mother hugging her little son tightly in a cozy living room, warm golden light, expressions of relief and pure happiness, Pixar style, 3D animation, highly detailed, emotional moment --ar 9:16
+## Сцена 1: Грустный мальчик ждет родителей
+A little boy sitting on a cozy sofa in a living room, waiting, looking sad, looking at the clock, Pixar style, 3D animation, bright colors, cinematic lighting, vertical format --ar 9:16
+
+## Сцена 2: Заходит уставшая мама
+An exhausted, tired mother entering the house through the front door, carrying a work bag, cartoon style, 3D animation, Pixar style, soft indoor lighting, vertical format --ar 9:16
+*Примечание: Анимированное облачко мыслей с графиками работы накладываем позже в CapCut.*
+
+## Сцена 3-4: Мальчик и мама танцуют
+A happy little boy and his mother laughing and dancing energetically together in a cozy modern living room, dynamic movement, funny dance, pure happiness, Pixar style, 3D animation, bright lighting, vertical format --ar 9:16
+
+## Сцена 5: Хмурый папа у двери
+An upset and stressed father, looking angry and tired after work, walking towards the house door outside, cartoon style, 3D animation, Pixar style, vertical format --ar 9:16
+*Примечание: Облачко со злым шефом накладываем позже в CapCut.*
+
+## Сцена 6: Папа заходит и присоединяется к танцу
+A happy family: dad, mom, and their little son laughing and dancing crazily together in the living room, expressive faces, ultimate joy, cartoon style, 3D render, Pixar style, vertical format --ar 9:16
+
+## Сцена 7: Финал в магическом теплом свете (Объятия)
+A warm, emotional close-up. A happy mother, father, and their little son are tightly hugging each other in the center of the room. A magical, dramatic beam of warm golden volumetric light shines upon them from above. Cinematic lighting, soft shadows, cozy atmosphere, pure love and happiness, no text, Pixar style, 3D animation, highly detailed character design --ar 9:16
+
+---
+## Промпт для анимации картинок (Загружать готовое фото в Runway Gen-3 / Luma):
+Slow camera zoom out, gentle camera movement. The characters are moving realistically with rich emotional expressions. Magical golden dust particles slowly floating in the volumetric light beam, cinematic look, 3D render animation.
